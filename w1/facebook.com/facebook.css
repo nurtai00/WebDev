@@ -1,0 +1,135 @@
+body{
+	font-family: sans-serif;
+	background: #f0f2f5;
+}
+img{
+	position: relative;
+	top: 200px;
+	left: 200px;
+}
+#reg{
+	background: white;
+	width:390px;
+	height: 345px;
+	text-align: center;
+	padding-top: 5px;
+	border-radius: 6px;
+	border: 1px solid #dddfe2;
+	position: relative;
+	left: 860px;
+	bottom: 100px;
+}
+#sign{
+	background: #1877f2;
+	border-radius: 6px;
+	font-size: 20px;
+	text-align: center;
+	width: 344px;
+	height: 47px;
+	color: white;
+	font-family: inherit;
+	font-weight: bold;
+	border: none;
+	cursor: pointer;
+}
+#account{
+	background: #42b72a;
+	border-radius: 6px;
+	color: white;
+	font-size: 17px;
+	line-height: 48px;
+	padding-left: 16px;
+	padding-right: 16px;
+	font-weight: bold;
+	border: none;
+	cursor: pointer;
+}
+#email{
+	border-radius: 6px;
+	width: 330px;
+	height: 47px;
+	font-size: 17px;
+	padding-left: 10px;
+	border: 1px solid #dddfe2;
+}
+#pass{
+	border-radius: 6px;
+	width: 330px;
+	height: 47px;
+	font-size: 17px;
+	padding-left: 10px;
+	border: 1px solid #dddfe2;
+}
+h2{	 
+	font-size:28px;
+	font-weight:normal;
+	line-height:32px;
+	width:500px;
+	position: relative;
+	top: 170px;
+	left: 230px;
+}
+footer{
+	background: white;
+	text-align: left;
+	padding: 10px;
+}
+#line{
+	align-items: center;
+	border-bottom: 1px solid #dadde1;
+	margin-top: 20px;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+#line1{
+	align-items: center;
+	border-bottom: 1px solid #dadde1;
+	width: 920px;
+	position: relative;
+	left: 253px;
+}
+#create{
+	color: black;
+	font-size: 14px;
+	position: relative;
+	bottom: 80px;
+	left: 865px;
+	text-decoration: none;
+	text-align: center;
+}
+#forget{
+	color: #1877f2;
+	cursor: pointer;
+	font-size: 14px;
+	text-decoration: none;
+}
+#lang{
+	font-size:12px;
+	color: #737373;
+	margin: 3px;
+	text-decoration: none;
+	position: relative;
+	left: 250px;
+}
+#menu{
+	font-size:12px;
+	color: #737373;
+	margin: 3px;
+	text-decoration: none;
+	margin:5px;
+	position: relative;
+	left: 248px;
+}
+#facefoot{
+	font-size: 10px;
+	color: #737373;
+	padding-left: 252px;
+}
+#crac{
+	font-weight: bold;
+}
+#company{
+	position: relative;
+	left: 150px;
+}
